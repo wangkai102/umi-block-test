@@ -7,7 +7,7 @@
     "name": "wangkai",
     "email": ""
   },
-  "repository": "umi-blocks-test/umi-block-test",
+  "repository": "umi-blocks-test",
   "scripts": {
     "dev": "umi dev"
   },
