@@ -1,0 +1,26 @@
+{
+  "name": "@umi-block/umi-block-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "authors": {
+    "name": "wangkai",
+    "email": ""
+  },
+  "repository": "umi-blocks-test/umi-block-test",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "antd": "^3.23.6",
+    "moment-timezone": "^0.5.27",
+    "react": ">=16.0.0",
+    "umi-plugin-react": "^1.12.5"
+  },
+  "devDependencies": {
+    "@ant-design/pro-layout": "^4.5.16",
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.2.2"
+  },
+  "license": "MIT"
+}
